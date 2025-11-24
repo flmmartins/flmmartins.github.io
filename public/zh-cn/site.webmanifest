@@ -1,0 +1,25 @@
+{
+  "background_color": "#ffffff",
+  "categories": [
+    "blog",
+    "technology",
+    "education"
+  ],
+  "description": "The DevOps Minion",
+  "dir": "ltr",
+  "display": "standalone",
+  "icons": [
+    {
+      "sizes": "any",
+      "src": "/avatar.png",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "en-US",
+  "name": "The DevOps Minion",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "TDM",
+  "start_url": "/",
+  "theme_color": "#09090b"
+}

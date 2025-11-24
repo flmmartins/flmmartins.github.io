@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on The DevOps Minion</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on The DevOps Minion</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Nov 2025 18:00:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevOps Roadmap - A big list of resources</title>
+      <link>http://localhost:1313/posts/devops-roadmap-a-big-list-of-resources/</link>
+      <pubDate>Sun, 23 Nov 2025 18:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/posts/devops-roadmap-a-big-list-of-resources/</guid>
+      <description>Roadmap ideas made by me</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 23 Nov 2024 18:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am passionate about automating infrastructure and continuous delivery. With a robust and diverse operations background, I have been scripting and automating servers since before DevOps became a buzzword. My brief stint as a developer has provided me with a unique perspective on infrastructure, enhancing my ability to bridge the gap between development and operations.&lt;/p&gt;&#xA;&lt;p&gt;I actively participate in communities, mentorships, meetups, sharing my experiences and learning from others. My journey has led me to specialize in Docker, Kubernetes, Azure, Terraform and delivery pipelines.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

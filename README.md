@@ -1,4 +1,13 @@
 # Setup
+brew install hugo
+hugo new site flmmartins.github.io
+git submodule add https://github.com/tom2almighty/hugo-narrow.git themes/hugo-narrow
+echo "theme = 'hugo-narrow'" >> hugo.toml
+hugo server
+
+
+## Deprecated -  Jekill 
+Although this works, customization of theme proved to be hard
 
 [How to](https://docs.github.com/en/pages/quickstart) create repo
 
