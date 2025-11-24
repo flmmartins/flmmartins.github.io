@@ -1,9 +1,20 @@
 # Setup
 brew install hugo
+
 hugo new site flmmartins.github.io
+
 git submodule add https://github.com/tom2almighty/hugo-narrow.git themes/hugo-narrow
+
 echo "theme = 'hugo-narrow'" >> hugo.toml
+
 hugo server
+
+# Deploying to Github Pages
+
+1. Change the Source to GitHub Actions
+2. In your hugo.yml configuration, change the location of the image cache to the cacheDir
+
+After everything is configured, when you push to main it will automatically deploy
 
 
 ## Deprecated -  Jekill 
