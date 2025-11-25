@@ -1,6 +1,6 @@
 ---
 title: "DevOps Roadmap - A big list of resources"
-date: 2025-11-23T18:00:00+03:00
+date: 2025-11-23T18:00:00-03:00
 draft: false
 summary: "Roadmap ideas made by me"
 categories: ["mentorships", "learning"]
